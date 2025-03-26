@@ -1,9 +1,15 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 function Nav() {
+
+
+ 
+
   return (
     <div>
-      Navigation
+      
+
+      <button  >Increment</button>
     </div>
   )
 }
